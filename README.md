@@ -2,9 +2,13 @@
 
 Dùng một tấm vải đưa nó ra phía trước camera và bạn sẽ biến mất! 
 
-![alt](https://baomoinhanh.com/wp-content/uploads/2016/01/ao-tang-hinh.jpg)
-
-<center><i>Magic is real 😳 </i></center>
+<p align="center">
+  <img src="https://baomoinhanh.com/wp-content/uploads/2016/01/ao-tang-hinh.jpg" />
+   
+</p>
+<p align="center">
+   <i>Magic is real 😳 </i>
+</p>
 
 # How it work
 
